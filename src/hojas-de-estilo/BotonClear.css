@@ -12,8 +12,10 @@
   border: 2px solid white;
   border-radius: 50px;
   cursor: pointer;
+  box-shadow: -4px 1px 1px 1px rgb(45, 42, 42);
 }
 
 .boton-clear:hover {
   background-color: #ebb000;
+  box-shadow: none;
 }

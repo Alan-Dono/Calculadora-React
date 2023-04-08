@@ -13,10 +13,12 @@
   margin: 4px;
   cursor: pointer;
   user-select: none;
+  box-shadow: -4px 1px 1px 1px rgb(45, 42, 42);
 }
 
 .boton-contenedor:hover {
   background-color: #5a01a7;
+  box-shadow: none;
 }
 
 .operador {
